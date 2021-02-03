@@ -1,11 +1,9 @@
-## Экранизации произведений Александра Сергеевича Пушкина
-
 
 ## Алеко
 
 <img src="https://upload.wikimedia.org/wikipedia/ru/b/bd/%D0%90%D0%BB%D0%B5%D0%BA%D0%BE_%28%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%2C_1953%29.jpg" alt="drawing" height="250" align="right"/>
 
-**Год:** 1953
+**Год:** 1953<br>
 **Страна:** СССР
 
 фильм-опера. Режиссёр Григорий Рошаль, Сергей Сиделёв
@@ -15,7 +13,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/ru/c/cc/%D0%A1%D0%BA%D0%B0%D0%B7_%D0%BF%D1%80%D0%BE_%D1%82%D0%BE_%D0%BA%D0%B0%D0%BA_%D1%86%D0%B0%D1%80%D1%8C_%D0%9F%D1%91%D1%82%D1%80.jpg" alt="drawing" height="250" align="right"/>
 
-**Год:** 1976
+**Год:** 1976<br>
 **Страна:** СССР
 
 советский художественный фильм-мелодрама, поставленный на Московской ордена Ленина киностудии «Мосфильм» в 1976 году режиссёром Александром Миттой по мотивам неоконченного произведения А. С. Пушкина «Арап Петра Великого».
@@ -25,7 +23,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/ru/4/4a/%D0%91%D0%BE%D1%80%D0%B8%D1%81_%D0%93%D0%BE%D0%B4%D1%83%D0%BD%D0%BE%D0%B2_%D0%BF%D0%BE%D1%81%D1%82%D0%B5%D1%80.jpg" alt="drawing" height="250" align="right"/>
 
-**Год:** 1954
+**Год:** 1954<br>
 **Страна:** СССР
 
 фильм-опера, реж. Вера Строева. В ролях: Александр Пирогов (Борис Годунов), Никандр Ханаев (князь Василий Шуйский)
@@ -35,7 +33,7 @@
 
 <img src="https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/8137a8e0-aa6c-407c-a2a9-479c0e8e4949/960x960" alt="drawing" height="250" align="right"/>
 
-**Год:** 1986
+**Год:** 1986<br>
 **Страна:** СССР
 
 реж. Сергей Бондарчук
@@ -45,7 +43,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/ru/5/59/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D0%B0_%C2%AB%D0%91%D0%BE%D1%80%D0%B8%D1%81_%D0%93%D0%BE%D0%B4%D1%83%D0%BD%D0%BE%D0%B2%C2%BB_%282011%29.jpg" alt="drawing" height="250" align="right"/>
 
-**Год:** 2011
+**Год:** 2011<br>
 **Страна:** Россия
 
 российская кинодрама, снятая в 2011 году режиссёром Владимиром Мирзоевым по одноимённой исторической трагедии А. С. Пушкина. Премьера фильма состоялась в ноябре 2011 года. Режиссёр перенёс действие пьесы в наши дни.
@@ -55,7 +53,7 @@
 
 <img src="https://i.ytimg.com/vi/sQas2KnW8Vk/hqdefault.jpg" alt="drawing" height="250" align="right"/>
 
-**Год:** 1912
+**Год:** 1912<br>
 **Страна:** Российская Империя
 
 немой художественный фильм Василия Гончарова, снятый в 1912 году по мотивам одноимённой поэмы Александра Пушкина. Фильм сохранился.
@@ -65,7 +63,7 @@
 
 <img src="https://i.ytimg.com/vi/8RIIfe026Yc/hqdefault.jpg" alt="drawing" height="250" align="right"/>
 
-**Год:** 1959
+**Год:** 1959<br>
 **Страна:** СССР
 
 Фильм-балет. Композитор Борис Асафьев, балетмейстер и реж. Владимир Варковицкий. В ролях: Ольга Лепешинская (Наталья Павловна), Александр Радунский (её супруг), Сергей Корень (граф Нулин)
@@ -75,7 +73,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Domik_v_Kolomne_%281913%29_2.jpg" alt="drawing" height="250" align="right"/>
 
-**Год:** 1913
+**Год:** 1913<br>
 **Страна:** Российская империя
 
 Реж. Пётр Чардынин. Актёры: Прасковья Максимова (вдова), Софья Гославская (её дочь), Иван Мозжухин (гусар, он же Мавруша)
@@ -85,7 +83,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/ru/b/ba/Dubrovskiy.jpg" alt="drawing" height="250" align="right"/>
 
-**Год:** 1936
+**Год:** 1936<br>
 **Страна:** СССР
 
 советская кинодрама режиссёра Александра Ивановского по мотивам одноимённого произведения А. С. Пушкина. Большая часть съёмок фильма прошла в РСФСР, но часть сцен была снята в деревне Станьково (Дзержинский район, Белоруссия). Фильм был восстановлен на киностудии Мосфильм в 1976 году.
@@ -95,7 +93,7 @@
 
 <img src="http://fenixclub.com/uploads/33602/img-102138-2233fca02e.jpg" alt="drawing" height="250" align="right"/>
 
-**Год:** 1961
+**Год:** 1961<br>
 **Страна:** СССР
 
 Лирико-драматическая #опера композитора Эдуарда Направника по одноименной повести А.С.Пушкина, либретто Модеста Чайковского. 
@@ -109,7 +107,7 @@
 
 <img src="https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/bf96c239-50b7-48d4-8b40-e47fa3febcbc/600x900" alt="drawing" height="250" align="right"/>
 
-**Год:** 1988
+**Год:** 1988<br>
 **Страна:** СССР
 
 реж. Вячеслав Никифоров — фильм и 4-х серийная расширенная телеверсия под названием «Дубровский» (1988)
@@ -119,7 +117,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/ru/b/b8/%D0%94%D1%83%D0%B1%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%BE%D1%81%D1%82%D0%B5%D1%80.jpg" alt="drawing" height="250" align="right"/>
 
-**Год:** 2014
+**Год:** 2014<br>
 **Страна:** Россия
 
 Действие фильма перенесено в наши дни. Владимир Дубровский — успешный столичный юрист и завсегдатай модных клубов, Маша Троекурова — выпускница английского колледжа и нежная дочь… Хозяева собственных судеб, они едва ли похожи на героев Пушкина. Но внезапная ссора их отцов решительно меняет жизнь Владимира и Маши — они погружаются в реальность, где действуют совсем другие законы…
@@ -129,7 +127,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/ru/9/94/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D0%B0_%C2%AB%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9_%D0%9E%D0%BD%D0%B5%D0%B3%D0%B8%D0%BD%C2%BB_%28%D0%A1%D0%A1%D0%A1%D0%A0%2C_1958_%D0%B3.%29.jpg" alt="drawing" height="250" align="right"/>
 
-**Год:** 1958
+**Год:** 1958<br>
 **Страна:** 
 
 Фильм-опера. В роли Онегина — Вадим Медведев, партию исполняет Евгений Кибкало. В роли Татьяны — Ариадна Шенгелая, партию исполняет Галина Вишневская. В роли Ольги — Светлана Немоляева
@@ -139,7 +137,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/ru/1/16/Onegin_film_1999.jpg" alt="drawing" height="250" align="right"/>
 
-**Год:** 1999
+**Год:** 1999<br>
 **Страна:** 
 
 В роли Евгения Онегина — Рэйф Файнс, Татьяна Ларина — Лив Тайлер, Владимир Ленский — Тоби Стивенс
@@ -149,7 +147,7 @@
 
 <img src="https://www.kino-teatr.ru/movie/poster/8557/66022.jpg" alt="drawing" height="250" align="right"/>
 
-**Год:** 1928
+**Год:** 1928<br>
 **Страна:** 
 
 реж. Юрия Тарича. Сценарист Виктор Шкловский
@@ -159,7 +157,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/ru/2/2d/%D0%9A%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%B4%D0%BE%D1%87%D0%BA%D0%B0_%D0%BF%D0%BE%D1%81%D1%82%D0%B5%D1%80.jpg" alt="drawing" height="250" align="right"/>
 
-**Год:** 1958
+**Год:** 1958<br>
 **Страна:** 
 
 фильм Владимира Каплуновского. В ролях: Олег Стриженов (Петр Гринёв), Сергей Лукьянов (Емельян Пугачёв)
@@ -169,7 +167,7 @@
 
 <img src="https://ruskino.ru/media/poster/001/nC9gP5MGTxSNcofAsYIG87WPJ2i.jpg" alt="drawing" height="250" align="right"/>
 
-**Год:** 2000
+**Год:** 2000<br>
 **Страна:** 
 
 реж. Александр Прошкин
@@ -179,7 +177,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/ru/4/4d/%D0%9A%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%B4%D0%BE%D1%87%D0%BA%D0%B0.jpg" alt="drawing" height="250" align="right"/>
 
-**Год:** 2005
+**Год:** 2005<br>
 **Страна:** 
 
 анимационный фильм, реж. Екатерина Михайлова
@@ -189,7 +187,7 @@
 
 <img src="https://mtdata.ru/u3/photoD3D7/20633804397-0/original.jpg" alt="drawing" height="250" align="right"/>
 
-**Год:** 1971
+**Год:** 1971<br>
 **Страна:** 
 
 телеверсия спектакля Ленинградского театра драмы имени А. С. Пушкина, в постановке Леонида Вивьен, реж. Антонин Даусон и Леонид Пчёлкин
@@ -199,7 +197,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/ru/thumb/d/dd/Malen%27kie_tragedii.jpg/274px-Malen%27kie_tragedii.jpg" alt="drawing" height="250" align="right"/>
 
-**Год:** 1979
+**Год:** 1979<br>
 **Страна:** 
 
 реж. Михаил Швейцер
@@ -209,7 +207,7 @@
 
 <img src="https://mults.info/screen/malenkie_tragediii.jpg" alt="drawing" height="250" align="right"/>
 
-**Год:** 2009
+**Год:** 2009<br>
 **Страна:** 
 
 реж. Ирина Евтеева
@@ -219,7 +217,7 @@
 
 <img src="https://www.kino-teatr.ru/movie/posters/big/4/8894.jpg" alt="drawing" height="250" align="right"/>
 
-**Год:** 1967
+**Год:** 1967<br>
 **Страна:** 
 
 фильм-опера. Реж. Владимир Гориккер. В ролях: Владимир Атлантов (Дон Гуан), Ирина Печерникова, поёт Тамара Милашкина (Дона Анна). Хор и симфонический оркестр Гостелерадио СССР, дирижёр Борис Хайкин
@@ -229,7 +227,7 @@
 
 <img src="http://ohdv.ru/uploads/posts/2015-05/1430743943_331814.jpg" alt="drawing" height="250" align="right"/>
 
-**Год:** 1971
+**Год:** 1971<br>
 **Страна:** 
 
 реж. Антонин Даусон и Леонид Пчёлкин
@@ -239,7 +237,7 @@
 
 <img src="https://www.kino-teatr.ru/movie/kadr/4036/155349.jpg" alt="drawing" height="250" align="right"/>
 
-**Год:** 1962
+**Год:** 1962<br>
 **Страна:** 
 
 Опера Н.А.Римского-Корсакова по одноименной трагедии А.С.Пушкина. Дирижер — С.Самосуд.
@@ -249,7 +247,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/ru/a/aa/%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D0%B0_%D0%BE_%D0%A1%D0%B0%D0%BB%D1%8C%D0%B5%D1%80%D0%B8.jpg" alt="drawing" height="250" align="right"/>
 
-**Год:** 1986
+**Год:** 1986<br>
 **Страна:** 
 
 советский кукольный мультфильм 1986 года, который создал на студии «Союзмультфильм» режиссёр Вадим Курчевский. Мультфильм снят по мотивам трагедии Александра Сергеевича Пушкина «Моцарт и Сальери». В фильме использована музыка Вольфганга Амадея Моцарта.
@@ -259,7 +257,7 @@
 
 <img src="https://i.ytimg.com/vi/bcMUfYaHfUI/hqdefault.jpg" alt="drawing" height="250" align="right"/>
 
-**Год:** 1910
+**Год:** 1910<br>
 **Страна:** 
 
 немой фильм на основе оперы. Сцен. и реж. Пётр Чардынин. Актёры: Павел Бирюков (Герман), Александра Гончарова (Лиза), Антонина Пожарская (графиня), Андрей Громов (Томский)
@@ -269,7 +267,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/ru/c/cd/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D0%BA_%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D1%83_%C2%AB%D0%9F%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%B0%D0%BC%D0%B0%C2%BB_%281916%29.jpg" alt="drawing" height="250" align="right"/>
 
-**Год:** 1916
+**Год:** 1916<br>
 **Страна:** 
 
 немой фильм Якова Протазанова с Иваном Мозжухиным в роли Германна
@@ -279,7 +277,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/ru/6/6f/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D0%B0_%C2%AB%D0%9F%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%B0%D0%BC%D0%B0%C2%BB_%28%D0%A1%D0%A1%D0%A1%D0%A0%2C_1960%29.jpg" alt="drawing" height="250" align="right"/>
 
-**Год:** 1960
+**Год:** 1960<br>
 **Страна:** 
 
 фильм-опера. Реж. Роман Тихомиров. В ролях: Олег Стриженов (поёт Зураб Анджапаридзе) — Германн, Ольга Красина (поёт Тамара Милашкина) — Лиза, Елена Полевицкая (поёт Софья Преображенская) — Графиня
@@ -289,7 +287,7 @@
 
 <img src="https://www.kino-teatr.ru/movie/posters/big/3/5123.jpg" alt="drawing" height="250" align="right"/>
 
-**Год:** 1982
+**Год:** 1982<br>
 **Страна:** 
 
 фильм Игоря Масленникова. Германн — Виктор Проскурин
@@ -299,7 +297,7 @@
 
 <img src="https://www.kino-teatr.ru/movie/posters/big/1/391.jpg" alt="drawing" height="250" align="right"/>
 
-**Год:** 1969
+**Год:** 1969<br>
 **Страна:** 
 
 Телеспектакль по повести А.С.Пушкина. В ролях: Ив. Дмитриев, Н. Карамышев, Н. Иванов, С. Карпинская, А. Прохорова, А. Тараканова. Режиссер: Д. Лукова
@@ -309,7 +307,7 @@
 
 <img src="http://avatars.mds.yandex.net/get-kinopoisk-image/1600647/b8a2b544-24db-41b5-a352-92bb3ece4a53/600x900" alt="drawing" height="250" align="right"/>
 
-**Год:** 1995
+**Год:** 1995<br>
 **Страна:** 
 
 российский художественный фильм 1995 года, по мотивам повестей «Барышня-крестьянка» и «Роман в письмах» А. С. Пушкина.
@@ -319,7 +317,7 @@
 
 <img src="https://thumbs.dfs.ivi.ru/storage28/contents/0/9/7e06368787d9b45de8ff65f8c36d92.jpg" alt="drawing" height="250" align="right"/>
 
-**Год:** 1966
+**Год:** 1966<br>
 **Страна:** 
 
 советский фильм-драма 1966 года. Фильм снят по одноименной повести А. С. Пушкина. Реж. Наум Трахтенберг
@@ -329,7 +327,7 @@
 
 <img src="http://ohdv.ru/uploads/posts/2016-01/ca12a5e465bdce32fc91d65362f1065f_ohdv.ru_e27c6c52dd44.jpg" alt="drawing" height="250" align="right"/>
 
-**Год:** 1990
+**Год:** 1990<br>
 **Страна:** 
 
 По мотивам одноименной повести А.С.Пушкина из цикла "Повести покойного Ивана Петровича Белкина". Постановка Петра Фоменко?.  Телеспектакль "Гробовщик?" Главная редакция литературно-драматических программ, 1990
@@ -339,7 +337,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/ru/b/bf/%D0%9C%D0%B5%D1%82%D0%B5%D0%BB%D1%8C_%D0%BF%D0%BE%D1%81%D1%82%D0%B5%D1%80.jpg" alt="drawing" height="250" align="right"/>
 
-**Год:** 1964
+**Год:** 1964<br>
 **Страна:** 
 
 широкоформатный художественный фильм Владимира Басова, вышедший в 1964 году. Экранизация одноимённой повести Александра Пушкина.
@@ -349,18 +347,8 @@
 
 <img src="https://retrogid.ru/wp-content/uploads/2017/08/stancionniy-smotritel.jpg" alt="drawing" height="250" align="right"/>
 
-**Год:** 1972
+**Год:** 1972<br>
 **Страна:** 
 
 советский художественный телефильм 1972 года, снятый по одноимённой повести Александра Пушкина.
 <br><a href='https://www.youtube.com/watch?v=X89ezeVDV44'><img src='https://github.com/MaksPV/Pushkin-s-film-adaptations/raw/main/playbutt.png' border='0'></a><a href='https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B8%D1%82%D0%B5%D0%BB%D1%8C_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1972)'><img src='https://github.com/MaksPV/Pushkin-s-film-adaptations/raw/main/wikiread.png' border='0'></a><a href='https://www.kinopoisk.ru/film/85021/'><img src='https://rating.kinopoisk.ru/85021.gif' border='0'></a><br clear="right"/>
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MaksPV/Pushkin-s-film-adaptations/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
