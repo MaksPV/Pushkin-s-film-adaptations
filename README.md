@@ -1,4 +1,36 @@
+- [Алеко](#)
+- [Арап Петра Великого](#--)
+- [Борис Годунов](#-)
+- [Братья разбойники](#-)
+- [Граф Нулин](#-)
+- [Домик в Коломне](#--)
+- [Дубровский](#)
+- [Евгений Онегин](#-)
+- [Капитанская дочка](#-)
+- [Маленькие трагедии](#-)
+  - [Маленькие трагедии](#-)
+  - [Маленькие трагедии](#-)
+  - [Маленькие трагедии](#-)
+  - [Каменный гость](#-)
+  - [Моцарт и Сальери](#--)
+- [Пиковая дама](#-)
+- [Повести Белкина](#-)
+  - [Барышня-крестьянка](#-)
+  - [Выстрел](#)
+  - [Гробовщик](#)
+  - [Метель](#)
+  - [Станционный смотритель](#-)
+- [Полтава](#)
+- [Русалка](#)
+- [Руслан и Людмила](#--)
+- [Сказка о золотом петушке](#---)
+- [Сказка о мёртвой царевне и о семи богатырях](#-------)
+- [Сказка о попе и его работнике Балде](#------)
+- [Сказка о рыбаке и рыбке](#----)
+- [Сказка о царе Салтане](#---)
+- [Стихотворения](#)
 
+# Алеко
 ## Алеко
 
 <img src="https://upload.wikimedia.org/wikipedia/ru/b/bd/%D0%90%D0%BB%D0%B5%D0%BA%D0%BE_%28%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%2C_1953%29.jpg" alt="drawing" width="225" align="right"/>
@@ -9,6 +41,7 @@
 фильм-опера. Режиссёр Григорий Рошаль, Сергей Сиделёв<br>
 <br><a href='https://www.youtube.com/watch?v=QkjddpEjsdQ'><img src='https://github.com/MaksPV/Pushkin-s-film-adaptations/raw/main/playbutt.png' border='0'></a><a href='https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D0%BE_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC-%D0%BE%D0%BF%D0%B5%D1%80%D0%B0)'><img src='https://github.com/MaksPV/Pushkin-s-film-adaptations/raw/main/wikiread.png' border='0'></a><a href='https://www.kinopoisk.ru/film/43448/'><img src='https://rating.kinopoisk.ru/43448.gif' border='0'></a><br clear="right"/>
 
+# Арап Петра Великого
 ## Сказ про то, как царь Пётр арапа женил
 
 <img src="https://upload.wikimedia.org/wikipedia/ru/c/cc/%D0%A1%D0%BA%D0%B0%D0%B7_%D0%BF%D1%80%D0%BE_%D1%82%D0%BE_%D0%BA%D0%B0%D0%BA_%D1%86%D0%B0%D1%80%D1%8C_%D0%9F%D1%91%D1%82%D1%80.jpg" alt="drawing" width="225" align="right"/>
@@ -19,6 +52,7 @@
 советский художественный фильм-мелодрама, поставленный на Московской ордена Ленина киностудии «Мосфильм» в 1976 году режиссёром Александром Миттой по мотивам неоконченного произведения А. С. Пушкина «Арап Петра Великого».<br>
 <br><a href='https://www.youtube.com/watch?v=aePYhB1VHfY'><img src='https://github.com/MaksPV/Pushkin-s-film-adaptations/raw/main/playbutt.png' border='0'></a><a href='https://ru.wikipedia.org/wiki/%D0%A1%D0%BA%D0%B0%D0%B7_%D0%BF%D1%80%D0%BE_%D1%82%D0%BE,_%D0%BA%D0%B0%D0%BA_%D1%86%D0%B0%D1%80%D1%8C_%D0%9F%D1%91%D1%82%D1%80_%D0%B0%D1%80%D0%B0%D0%BF%D0%B0_%D0%B6%D0%B5%D0%BD%D0%B8%D0%BB'><img src='https://github.com/MaksPV/Pushkin-s-film-adaptations/raw/main/wikiread.png' border='0'></a><a href='https://www.kinopoisk.ru/film/43805/'><img src='https://rating.kinopoisk.ru/43805.gif' border='0'></a><br clear="right"/>
 
+# Борис Годунов
 ## Борис Годунов
 
 <img src="https://upload.wikimedia.org/wikipedia/ru/4/4a/%D0%91%D0%BE%D1%80%D0%B8%D1%81_%D0%93%D0%BE%D0%B4%D1%83%D0%BD%D0%BE%D0%B2_%D0%BF%D0%BE%D1%81%D1%82%D0%B5%D1%80.jpg" alt="drawing" width="225" align="right"/>
@@ -49,6 +83,7 @@
 российская кинодрама, снятая в 2011 году режиссёром Владимиром Мирзоевым по одноимённой исторической трагедии А. С. Пушкина. Премьера фильма состоялась в ноябре 2011 года. Режиссёр перенёс действие пьесы в наши дни.<br>
 <br><a href='https://ok.ru/video/29372844722'><img src='https://github.com/MaksPV/Pushkin-s-film-adaptations/raw/main/playbutt.png' border='0'></a><a href='https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D0%B8%D1%81_%D0%93%D0%BE%D0%B4%D1%83%D0%BD%D0%BE%D0%B2_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_2011)'><img src='https://github.com/MaksPV/Pushkin-s-film-adaptations/raw/main/wikiread.png' border='0'></a><a href='https://www.kinopoisk.ru/film/586567/'><img src='https://rating.kinopoisk.ru/586567.gif' border='0'></a><br clear="right"/>
 
+# Братья разбойники
 ## Братья разбойники
 
 <img src="https://i.ytimg.com/vi/sQas2KnW8Vk/hqdefault.jpg" alt="drawing" width="225" align="right"/>
@@ -59,6 +94,7 @@
 немой художественный фильм Василия Гончарова, снятый в 1912 году по мотивам одноимённой поэмы Александра Пушкина. Фильм сохранился.<br>
 <br><a href='https://www.youtube.com/watch?v=Tdj7446b5sM'><img src='https://github.com/MaksPV/Pushkin-s-film-adaptations/raw/main/playbutt.png' border='0'></a><a href='https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D1%82%D1%8C%D1%8F_%D1%80%D0%B0%D0%B7%D0%B1%D0%BE%D0%B9%D0%BD%D0%B8%D0%BA%D0%B8_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)'><img src='https://github.com/MaksPV/Pushkin-s-film-adaptations/raw/main/wikiread.png' border='0'></a><a href='https://www.kinopoisk.ru/film/678790/'><img src='https://rating.kinopoisk.ru/678790.gif' border='0'></a><br clear="right"/>
 
+# Граф Нулин
 ## Граф Нулин
 
 <img src="https://i.ytimg.com/vi/8RIIfe026Yc/hqdefault.jpg" alt="drawing" width="225" align="right"/>
@@ -69,6 +105,7 @@
 Фильм-балет. Композитор Борис Асафьев, балетмейстер и реж. Владимир Варковицкий. В ролях: Ольга Лепешинская (Наталья Павловна), Александр Радунский (её супруг), Сергей Корень (граф Нулин)<br>
 <br><a href='https://www.youtube.com/watch?v=8RIIfe026Yc'><img src='https://github.com/MaksPV/Pushkin-s-film-adaptations/raw/main/playbutt.png' border='0'></a><a href=''><img src='https://github.com/MaksPV/Pushkin-s-film-adaptations/raw/main/wikiread.png' border='0'></a><a href='https://www.kinopoisk.ru/film/1252448/'><img src='https://rating.kinopoisk.ru/1252448.gif' border='0'></a><br clear="right"/>
 
+# Домик в Коломне
 ## Домик в Коломне
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Domik_v_Kolomne_%281913%29_2.jpg" alt="drawing" width="225" align="right"/>
@@ -79,6 +116,7 @@
 Реж. Пётр Чардынин. Актёры: Прасковья Максимова (вдова), Софья Гославская (её дочь), Иван Мозжухин (гусар, он же Мавруша)<br>
 <br><a href='https://www.youtube.com/watch?v=rFNRC9joVGQ'><img src='https://github.com/MaksPV/Pushkin-s-film-adaptations/raw/main/playbutt.png' border='0'></a><a href='https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BC%D0%B8%D0%BA_%D0%B2_%D0%9A%D0%BE%D0%BB%D0%BE%D0%BC%D0%BD%D0%B5_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)'><img src='https://github.com/MaksPV/Pushkin-s-film-adaptations/raw/main/wikiread.png' border='0'></a><a href='https://www.kinopoisk.ru/film/41141/'><img src='https://rating.kinopoisk.ru/41141.gif' border='0'></a><br clear="right"/>
 
+# Дубровский
 ## Дубровский
 
 <img src="https://upload.wikimedia.org/wikipedia/ru/b/ba/Dubrovskiy.jpg" alt="drawing" width="225" align="right"/>
@@ -123,6 +161,7 @@
 Действие фильма перенесено в наши дни. Владимир Дубровский — успешный столичный юрист и завсегдатай модных клубов, Маша Троекурова — выпускница английского колледжа и нежная дочь… Хозяева собственных судеб, они едва ли похожи на героев Пушкина. Но внезапная ссора их отцов решительно меняет жизнь Владимира и Маши — они погружаются в реальность, где действуют совсем другие законы…<br>
 <br><a href='https://www.youtube.com/watch?v=IbflLkIdYpM'><img src='https://github.com/MaksPV/Pushkin-s-film-adaptations/raw/main/playbutt.png' border='0'></a><a href='https://ru.wikipedia.org/wiki/%D0%94%D1%83%D0%B1%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_2014)'><img src='https://github.com/MaksPV/Pushkin-s-film-adaptations/raw/main/wikiread.png' border='0'></a><a href='https://www.kinopoisk.ru/film/677731/'><img src='https://rating.kinopoisk.ru/677731.gif' border='0'></a><br clear="right"/>
 
+# Евгений Онегин
 ## Евгений Онегин
 
 <img src="https://upload.wikimedia.org/wikipedia/ru/9/94/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D0%B0_%C2%AB%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9_%D0%9E%D0%BD%D0%B5%D0%B3%D0%B8%D0%BD%C2%BB_%28%D0%A1%D0%A1%D0%A1%D0%A0%2C_1958_%D0%B3.%29.jpg" alt="drawing" width="225" align="right"/>
@@ -143,6 +182,7 @@
 В роли Евгения Онегина — Рэйф Файнс, Татьяна Ларина — Лив Тайлер, Владимир Ленский — Тоби Стивенс<br>
 <br><a href='https://www.ivi.ru/watch/63167'><img src='https://github.com/MaksPV/Pushkin-s-film-adaptations/raw/main/playbutt.png' border='0'></a><a href='https://ru.wikipedia.org/wiki/%D0%9E%D0%BD%D0%B5%D0%B3%D0%B8%D0%BD_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)'><img src='https://github.com/MaksPV/Pushkin-s-film-adaptations/raw/main/wikiread.png' border='0'></a><a href='https://www.kinopoisk.ru/film/5528/'><img src='https://rating.kinopoisk.ru/5528.gif' border='0'></a><br clear="right"/>
 
+# Капитанская дочка
 ## Капитанская дочка (Гвардии сержант)
 
 <img src="https://www.kino-teatr.ru/movie/poster/8557/66022.jpg" alt="drawing" width="225" align="right"/>
@@ -183,6 +223,7 @@
 анимационный фильм, реж. Екатерина Михайлова<br>
 <br><a href='https://ok.ru/video/85226752619'><img src='https://github.com/MaksPV/Pushkin-s-film-adaptations/raw/main/playbutt.png' border='0'></a><a href='https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%B4%D0%BE%D1%87%D0%BA%D0%B0_(%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)'><img src='https://github.com/MaksPV/Pushkin-s-film-adaptations/raw/main/wikiread.png' border='0'></a><a href='https://www.kinopoisk.ru/film/424512/'><img src='https://rating.kinopoisk.ru/424512.gif' border='0'></a><br clear="right"/>
 
+# Маленькие трагедии
 ## Маленькие трагедии
 
 <img src="https://mtdata.ru/u3/photoD3D7/20633804397-0/original.jpg" alt="drawing" width="225" align="right"/>
@@ -214,6 +255,7 @@
 <br><a href='https://mults.info/mults/?id=3342'><img src='https://github.com/MaksPV/Pushkin-s-film-adaptations/raw/main/playbutt.png' border='0'></a><a href='https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D0%B5%D0%BD%D1%8C%D0%BA%D0%B8%D0%B5_%D1%82%D1%80%D0%B0%D0%B3%D0%B5%D0%B4%D0%B8%D0%B8_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_2009)'><img src='https://github.com/MaksPV/Pushkin-s-film-adaptations/raw/main/wikiread.png' border='0'></a><a href='https://www.kinopoisk.ru/film/466566'><img src='https://rating.kinopoisk.ru/466566.gif' border='0'></a><br clear="right"/>
 
 ## Каменный гость
+### Каменный гость
 
 <img src="https://www.kino-teatr.ru/movie/posters/big/4/8894.jpg" alt="drawing" width="225" align="right"/>
 
@@ -223,7 +265,7 @@
 фильм-опера. Реж. Владимир Гориккер. В ролях: Владимир Атлантов (Дон Гуан), Ирина Печерникова, поёт Тамара Милашкина (Дона Анна). Хор и симфонический оркестр Гостелерадио СССР, дирижёр Борис Хайкин<br>
 <br><a href='https://youtu.be/iQ6q1gN0APo'><img src='https://github.com/MaksPV/Pushkin-s-film-adaptations/raw/main/playbutt.png' border='0'></a><a href='https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B3%D0%BE%D1%81%D1%82%D1%8C_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC-%D0%BE%D0%BF%D0%B5%D1%80%D0%B0,_1967)'><img src='https://github.com/MaksPV/Pushkin-s-film-adaptations/raw/main/wikiread.png' border='0'></a><a href='https://www.kinopoisk.ru/film/44696/'><img src='https://rating.kinopoisk.ru/44696.gif' border='0'></a><br clear="right"/>
 
-## Каменный гость
+### Каменный гость
 
 <img src="http://ohdv.ru/uploads/posts/2015-05/1430743943_331814.jpg" alt="drawing" width="225" align="right"/>
 
@@ -234,6 +276,7 @@
 <br><a href='https://youtu.be/Or57pLL1QuM'><img src='https://github.com/MaksPV/Pushkin-s-film-adaptations/raw/main/playbutt.png' border='0'></a><a href='https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0'><img src='https://github.com/MaksPV/Pushkin-s-film-adaptations/raw/main/wikiread.png' border='0'></a><a href='https://www.kinopoisk.ru/film/331814/'><img src='https://rating.kinopoisk.ru/331814.gif' border='0'></a><br clear="right"/>
 
 ## Моцарт и Сальери
+### Моцарт и Сальери
 
 <img src="https://www.kino-teatr.ru/movie/kadr/4036/155349.jpg" alt="drawing" width="225" align="right"/>
 
@@ -243,7 +286,7 @@
 Опера Н.А.Римского-Корсакова по одноименной трагедии А.С.Пушкина. Дирижер — С.Самосуд.<br>
 <br><a href='https://youtu.be/jM5L8RtSNXA'><img src='https://github.com/MaksPV/Pushkin-s-film-adaptations/raw/main/playbutt.png' border='0'></a><a href='https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0'><img src='https://github.com/MaksPV/Pushkin-s-film-adaptations/raw/main/wikiread.png' border='0'></a><a href='https://www.kinopoisk.ru/film/46714/'><img src='https://rating.kinopoisk.ru/46714.gif' border='0'></a><br clear="right"/>
 
-## Легенда о Сальери
+### Легенда о Сальери
 
 <img src="https://upload.wikimedia.org/wikipedia/ru/a/aa/%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D0%B0_%D0%BE_%D0%A1%D0%B0%D0%BB%D1%8C%D0%B5%D1%80%D0%B8.jpg" alt="drawing" width="225" align="right"/>
 
@@ -253,6 +296,7 @@
 советский кукольный мультфильм 1986 года, который создал на студии «Союзмультфильм» режиссёр Вадим Курчевский. Мультфильм снят по мотивам трагедии Александра Сергеевича Пушкина «Моцарт и Сальери». В фильме использована музыка Вольфганга Амадея Моцарта.<br>
 <br><a href='https://www.ivi.ru/watch/67485'><img src='https://github.com/MaksPV/Pushkin-s-film-adaptations/raw/main/playbutt.png' border='0'></a><a href='https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D0%B0_%D0%BE_%D0%A1%D0%B0%D0%BB%D1%8C%D0%B5%D1%80%D0%B8'><img src='https://github.com/MaksPV/Pushkin-s-film-adaptations/raw/main/wikiread.png' border='0'></a><a href='https://www.kinopoisk.ru/film/632480/'><img src='https://rating.kinopoisk.ru/632480.gif' border='0'></a><br clear="right"/>
 
+# Пиковая дама
 ## Пиковая дама
 
 <img src="https://i.ytimg.com/vi/bcMUfYaHfUI/hqdefault.jpg" alt="drawing" width="225" align="right"/>
@@ -293,7 +337,9 @@
 фильм Игоря Масленникова. Германн — Виктор Проскурин<br>
 <br><a href='https://www.youtube.com/watch?v=X4Cmrk5iTJc'><img src='https://github.com/MaksPV/Pushkin-s-film-adaptations/raw/main/playbutt.png' border='0'></a><a href='https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%B0%D0%BC%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1982)'><img src='https://github.com/MaksPV/Pushkin-s-film-adaptations/raw/main/wikiread.png' border='0'></a><a href='https://www.kinopoisk.ru/film/84222/'><img src='https://rating.kinopoisk.ru/84222.gif' border='0'></a><br clear="right"/>
 
+# Повести Белкина
 ## Барышня-крестьянка
+### Барышня-крестьянка
 
 <img src="https://www.kino-teatr.ru/movie/posters/big/1/391.jpg" alt="drawing" width="225" align="right"/>
 
@@ -303,7 +349,7 @@
 Телеспектакль по повести А.С.Пушкина. В ролях: Ив. Дмитриев, Н. Карамышев, Н. Иванов, С. Карпинская, А. Прохорова, А. Тараканова. Режиссер: Д. Лукова<br>
 <br><a href='https://youtu.be/wYr9_GebsLA'><img src='https://github.com/MaksPV/Pushkin-s-film-adaptations/raw/main/playbutt.png' border='0'></a><a href='https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0'><img src='https://github.com/MaksPV/Pushkin-s-film-adaptations/raw/main/wikiread.png' border='0'></a><a href='https://www.kinopoisk.ru/film/331866/'><img src='https://rating.kinopoisk.ru/331866.gif' border='0'></a><br clear="right"/>
 
-## Барышня-крестьянка
+### Барышня-крестьянка
 
 <img src="http://avatars.mds.yandex.net/get-kinopoisk-image/1600647/b8a2b544-24db-41b5-a352-92bb3ece4a53/600x900" alt="drawing" width="225" align="right"/>
 
@@ -314,6 +360,7 @@
 <br><a href='https://www.youtube.com/watch?v=vYbY_eQRt8E'><img src='https://github.com/MaksPV/Pushkin-s-film-adaptations/raw/main/playbutt.png' border='0'></a><a href='https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D1%80%D1%8B%D1%88%D0%BD%D1%8F-%D0%BA%D1%80%D0%B5%D1%81%D1%82%D1%8C%D1%8F%D0%BD%D0%BA%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1995)'><img src='https://github.com/MaksPV/Pushkin-s-film-adaptations/raw/main/wikiread.png' border='0'></a><a href='https://www.kinopoisk.ru/film/41475/'><img src='https://rating.kinopoisk.ru/41475.gif' border='0'></a><br clear="right"/>
 
 ## Выстрел
+### Выстрел
 
 <img src="https://thumbs.dfs.ivi.ru/storage28/contents/0/9/7e06368787d9b45de8ff65f8c36d92.jpg" alt="drawing" width="225" align="right"/>
 
@@ -323,7 +370,8 @@
 советский фильм-драма 1966 года. Фильм снят по одноименной повести А. С. Пушкина. Реж. Наум Трахтенберг<br>
 <br><a href='https://www.youtube.com/watch?v=B17W30IR4kg'><img src='https://github.com/MaksPV/Pushkin-s-film-adaptations/raw/main/playbutt.png' border='0'></a><a href='https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D1%81%D1%82%D1%80%D0%B5%D0%BB_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1966)'><img src='https://github.com/MaksPV/Pushkin-s-film-adaptations/raw/main/wikiread.png' border='0'></a><a href='https://www.kinopoisk.ru/film/45979/'><img src='https://rating.kinopoisk.ru/45979.gif' border='0'></a><br clear="right"/>
 
-## Повести Белкина: Гробовщик
+## Гробовщик
+### Повести Белкина: Гробовщик
 
 <img src="http://ohdv.ru/uploads/posts/2016-01/ca12a5e465bdce32fc91d65362f1065f_ohdv.ru_e27c6c52dd44.jpg" alt="drawing" width="225" align="right"/>
 
@@ -334,6 +382,7 @@
 <br><a href='https://youtu.be/cJRWUjT7E34'><img src='https://github.com/MaksPV/Pushkin-s-film-adaptations/raw/main/playbutt.png' border='0'></a><a href='https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0'><img src='https://github.com/MaksPV/Pushkin-s-film-adaptations/raw/main/wikiread.png' border='0'></a><a href='https://www.kinopoisk.ru/film/503691/'><img src='https://rating.kinopoisk.ru/503691.gif' border='0'></a><br clear="right"/>
 
 ## Метель
+### Метель
 
 <img src="https://upload.wikimedia.org/wikipedia/ru/b/bf/%D0%9C%D0%B5%D1%82%D0%B5%D0%BB%D1%8C_%D0%BF%D0%BE%D1%81%D1%82%D0%B5%D1%80.jpg" alt="drawing" width="225" align="right"/>
 
@@ -344,6 +393,7 @@
 <br><a href='https://www.ivi.ru/watch/60226'><img src='https://github.com/MaksPV/Pushkin-s-film-adaptations/raw/main/playbutt.png' border='0'></a><a href='https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D0%B5%D0%BB%D1%8C_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)'><img src='https://github.com/MaksPV/Pushkin-s-film-adaptations/raw/main/wikiread.png' border='0'></a><a href='https://www.kinopoisk.ru/film/46618/'><img src='https://rating.kinopoisk.ru/46618.gif' border='0'></a><br clear="right"/>
 
 ## Станционный смотритель
+### Станционный смотритель
 
 <img src="https://retrogid.ru/wp-content/uploads/2017/08/stancionniy-smotritel.jpg" alt="drawing" width="225" align="right"/>
 
@@ -353,6 +403,7 @@
 советский художественный телефильм 1972 года, снятый по одноимённой повести Александра Пушкина.<br>
 <br><a href='https://www.youtube.com/watch?v=X89ezeVDV44'><img src='https://github.com/MaksPV/Pushkin-s-film-adaptations/raw/main/playbutt.png' border='0'></a><a href='https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B8%D1%82%D0%B5%D0%BB%D1%8C_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1972)'><img src='https://github.com/MaksPV/Pushkin-s-film-adaptations/raw/main/wikiread.png' border='0'></a><a href='https://www.kinopoisk.ru/film/85021/'><img src='https://rating.kinopoisk.ru/85021.gif' border='0'></a><br clear="right"/>
 
+# Полтава
 ## Мазепа
 
 <img src="http://i.mycdn.me/i?r=AEHujHvw2RjEbemUCNEorZbxYpb_p_9AcN2FmGik64Krkce3GOYpRhOwf8quvAwAiMR7Zi9s0CiBOSDmbngC-I-k&fn=external_8" alt="drawing" width="225" align="right"/>
@@ -363,6 +414,7 @@
 немой фильм по либретто оперы «Мазепа». Сцен. и реж. Василий Гончаров. Актёры: Василий Степанов (Кочубей), Андрей Громов (Мазепа), Раиса Рейзен (Мария), Антонина Пожарская (её мать)<br>
 <br><a href='https://www.youtube.com/watch?v=t8wzYnU8WzU'><img src='https://github.com/MaksPV/Pushkin-s-film-adaptations/raw/main/playbutt.png' border='0'></a><a href='https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B7%D0%B5%D0%BF%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1909)'><img src='https://github.com/MaksPV/Pushkin-s-film-adaptations/raw/main/wikiread.png' border='0'></a><a href='https://www.kinopoisk.ru/film/41605/'><img src='https://rating.kinopoisk.ru/41605.gif' border='0'></a><br clear="right"/>
 
+# Русалка
 ## Русалка
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/The_Mermaid_%281910_film%29.jpg" alt="drawing" width="225" align="right"/>
@@ -383,6 +435,7 @@
 Телепостановка оперы А.С.Даргомыжского по одноименной драме А.С.Пушкина. Звучит запись 1957 года с участием солистов и оркестра Государственного академического Большого театра Союза ССР, дирижер - Евгений #Светланов?.<br>
 <br><a href='https://youtu.be/WLBfOU7QP9c'><img src='https://github.com/MaksPV/Pushkin-s-film-adaptations/raw/main/playbutt.png' border='0'></a><a href='https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D1%81%D0%B0%D0%BB%D0%BA%D0%B0_(%D0%BE%D0%BF%D0%B5%D1%80%D0%B0_%D0%94%D0%B0%D1%80%D0%B3%D0%BE%D0%BC%D1%8B%D0%B6%D1%81%D0%BA%D0%BE%D0%B3%D0%BE)'><img src='https://github.com/MaksPV/Pushkin-s-film-adaptations/raw/main/wikiread.png' border='0'></a><a href='https://www.kinopoisk.ru/film/537170/'><img src='https://rating.kinopoisk.ru/537170.gif' border='0'></a><br clear="right"/>
 
+# Руслан и Людмила
 ## Руслан и Людмила 
 
 <img src="https://upload.wikimedia.org/wikipedia/ru/9/9c/%D0%A0%D1%83%D1%81%D0%BB%D0%B0%D0%BD_%D0%B8_%D0%9B%D1%8E%D0%B4%D0%BC%D0%B8%D0%BB%D0%B0_%28%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%2C_1938%29.jpg" alt="drawing" width="225" align="right"/>
@@ -403,6 +456,7 @@
 советский двухсерийный фильм Александра Птушко, снятый в 1972 году на киностудии «Мосфильм» по мотивам одноимённой поэмы А. С. Пушкина. Это последний фильм Александра Птушко — по мнению кинокритиков, вершина творчества режиссёра<br>
 <br><a href='https://www.youtube.com/watch?v=PHiLzQlD08o'><img src='https://github.com/MaksPV/Pushkin-s-film-adaptations/raw/main/playbutt.png' border='0'></a><a href='https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D1%81%D0%BB%D0%B0%D0%BD_%D0%B8_%D0%9B%D1%8E%D0%B4%D0%BC%D0%B8%D0%BB%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1972)'><img src='https://github.com/MaksPV/Pushkin-s-film-adaptations/raw/main/wikiread.png' border='0'></a><a href='https://www.kinopoisk.ru/film/42147/'><img src='https://rating.kinopoisk.ru/42147.gif' border='0'></a><br clear="right"/>
 
+# Сказка о золотом петушке
 ## Сказка о золотом петушке
 
 <img src="https://upload.wikimedia.org/wikipedia/ru/thumb/c/c3/%D0%A1%D0%BA%D0%B0%D0%B7%D0%BA%D0%B0_%D0%BE_%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%BC_%D0%BF%D0%B5%D1%82%D1%83%D1%88%D0%BA%D0%B5_%28%D0%BA%D0%B0%D0%B4%D1%80%29.png/260px-%D0%A1%D0%BA%D0%B0%D0%B7%D0%BA%D0%B0_%D0%BE_%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%BC_%D0%BF%D0%B5%D1%82%D1%83%D1%88%D0%BA%D0%B5_%28%D0%BA%D0%B0%D0%B4%D1%80%29.png" alt="drawing" width="225" align="right"/>
@@ -413,6 +467,7 @@
 советский рисованный мультфильм, снятый на киностудии «Союзмультфильм» по мотивам одноимённой сказки Александра Пушкина. Премьера состоялась в 1967 году в СССР.<br>
 <br><a href='https://www.youtube.com/watch?v=K0453awEYLU'><img src='https://github.com/MaksPV/Pushkin-s-film-adaptations/raw/main/playbutt.png' border='0'></a><a href='https://ru.wikipedia.org/wiki/%D0%A1%D0%BA%D0%B0%D0%B7%D0%BA%D0%B0_%D0%BE_%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%BC_%D0%BF%D0%B5%D1%82%D1%83%D1%88%D0%BA%D0%B5_(%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)'><img src='https://github.com/MaksPV/Pushkin-s-film-adaptations/raw/main/wikiread.png' border='0'></a><a href='https://www.kinopoisk.ru/film/43815/'><img src='https://rating.kinopoisk.ru/43815.gif' border='0'></a><br clear="right"/>
 
+# Сказка о мёртвой царевне и о семи богатырях
 ## Сказка о мёртвой царевне и о семи богатырях
 
 <img src="https://thumbs.dfs.ivi.ru/storage6/contents/6/e/376fd549c5b91410fab5b179aaec16.jpg/234x360/" alt="drawing" width="225" align="right"/>
@@ -433,6 +488,7 @@
 советский фильм-сказка 1978 года режиссера Владимира Гориккера. Фильм снят по мотивам сказки Александра Сергеевича Пушкина «Сказка о мёртвой царевне и о семи богатырях».<br>
 <br><a href='https://www.youtube.com/watch?v=RjQxFGS6ziA'><img src='https://github.com/MaksPV/Pushkin-s-film-adaptations/raw/main/playbutt.png' border='0'></a><a href='https://ru.wikipedia.org/wiki/%D0%9E%D1%81%D0%B5%D0%BD%D0%BD%D0%B8%D0%B5_%D0%BA%D0%BE%D0%BB%D0%BE%D0%BA%D0%BE%D0%BB%D0%B0'><img src='https://github.com/MaksPV/Pushkin-s-film-adaptations/raw/main/wikiread.png' border='0'></a><a href='https://www.kinopoisk.ru/film/42801/'><img src='https://rating.kinopoisk.ru/42801.gif' border='0'></a><br clear="right"/>
 
+# Сказка о попе и его работнике Балде
 ## Сказка о попе и его работнике Балде
 
 <img src="https://www.kino-teatr.ru/movie/posters/big/8/88578.jpg" alt="drawing" width="225" align="right"/>
@@ -463,6 +519,7 @@
 рисованный мультфильм, реж. Инесса Ковалевская<br>
 <br><a href='https://www.youtube.com/watch?v=nGYt_IiOUYs'><img src='https://github.com/MaksPV/Pushkin-s-film-adaptations/raw/main/playbutt.png' border='0'></a><a href='https://ru.wikipedia.org/wiki/%D0%A1%D0%BA%D0%B0%D0%B7%D0%BA%D0%B0_%D0%BE_%D0%BF%D0%BE%D0%BF%D0%B5_%D0%B8_%D0%BE_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B5_%D0%B5%D0%B3%D0%BE_%D0%91%D0%B0%D0%BB%D0%B4%D0%B5_(%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1973)'><img src='https://github.com/MaksPV/Pushkin-s-film-adaptations/raw/main/wikiread.png' border='0'></a><a href='https://www.kinopoisk.ru/film/440086/'><img src='https://rating.kinopoisk.ru/440086.gif' border='0'></a><br clear="right"/>
 
+# Сказка о рыбаке и рыбке
 ## Сказка о рыбаке и рыбке
 
 <img src="https://i.ytimg.com/vi/VwbH0ub6y5k/hqdefault.jpg" alt="drawing" width="225" align="right"/>
@@ -483,6 +540,7 @@
 советский цветной рисованный мультипликационный фильм, который создал режиссёр Михаил Цехановский на студии «Союзмультфильм» в 1950 году. Экранизация одноимённой сказки А. С. Пушкина.<br>
 <br><a href='https://www.youtube.com/watch?v=8BRFqZcnQ2U'><img src='https://github.com/MaksPV/Pushkin-s-film-adaptations/raw/main/playbutt.png' border='0'></a><a href='https://ru.wikipedia.org/wiki/%D0%A1%D0%BA%D0%B0%D0%B7%D0%BA%D0%B0_%D0%BE_%D1%80%D1%8B%D0%B1%D0%B0%D0%BA%D0%B5_%D0%B8_%D1%80%D1%8B%D0%B1%D0%BA%D0%B5_(%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)'><img src='https://github.com/MaksPV/Pushkin-s-film-adaptations/raw/main/wikiread.png' border='0'></a><a href='https://www.kinopoisk.ru/film/438329/'><img src='https://rating.kinopoisk.ru/438329.gif' border='0'></a><br clear="right"/>
 
+# Сказка о царе Салтане
 ## Сказка о царе Салтане
 
 <img src="https://www.kino-teatr.ru/movie/posters/big/3/84083.jpg" alt="drawing" width="225" align="right"/>
@@ -513,6 +571,7 @@
 мультфильм. Реж. Иван Иванов-Вано, Лев Мильчин<br>
 <br><a href='https://www.youtube.com/watch?v=c-YTLaWTNiE'><img src='https://github.com/MaksPV/Pushkin-s-film-adaptations/raw/main/playbutt.png' border='0'></a><a href='https://ru.wikipedia.org/wiki/%D0%A1%D0%BA%D0%B0%D0%B7%D0%BA%D0%B0_%D0%BE_%D1%86%D0%B0%D1%80%D0%B5_%D0%A1%D0%B0%D0%BB%D1%82%D0%B0%D0%BD%D0%B5_(%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1984)'><img src='https://github.com/MaksPV/Pushkin-s-film-adaptations/raw/main/wikiread.png' border='0'></a><a href='https://www.kinopoisk.ru/film/43814/'><img src='https://rating.kinopoisk.ru/43814.gif' border='0'></a><br clear="right"/>
 
+# Стихотворения
 ## Мне скучно, бес
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Mne_skuchno%2C_bes.jpg" alt="drawing" width="225" align="right"/>
