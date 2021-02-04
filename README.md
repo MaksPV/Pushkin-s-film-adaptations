@@ -435,7 +435,7 @@
 
 ## Сказка о попе и его работнике Балде
 
-<img src="https://thumbs.dfs.ivi.ru/storage6/contents/6/e/376fd549c5b91410fab5b179aaec16.jpg/234x360/" alt="drawing" width="225" align="right"/>
+<img src="https://www.kino-teatr.ru/movie/posters/big/8/88578.jpg" alt="drawing" width="225" align="right"/>
 
 **Год:** 1940<br>
 **Страна:** СССР
